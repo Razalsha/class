@@ -1,0 +1,68 @@
+.container{
+    display:flex
+}
+.container2{
+    display: flex;
+    margin-top: 5%;    
+}
+#large{
+    background-color: rgb(231, 194, 148);
+    width: 1700px;
+    height: 1000px;
+    padding-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 20px;
+}
+h1{
+    font-size: 300%;
+}
+.one{
+    font-size: 400%;
+    margin-top: 100px;
+    margin-right: 300px;
+}
+#box1{
+    background-color: rgb(184, 130, 65);;
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 15px;
+    margin-left: 200px;
+    
+
+}
+p{
+    margin-left: 90px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.two{
+    font-size: 40px;
+    margin-left: 20px;
+}
+#box2{
+    background-color: rgb(184, 130, 65);
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 15px;
+    margin-left: 400px;
+    
+}
+    #box3{
+        background-color: rgb(184, 130, 65);
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 15px;
+    margin-left: 200px;
+    }
+   #box4{
+    background-color: rgb(184, 130, 65);
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 15px;
+    margin-left: 400px;
+   }
